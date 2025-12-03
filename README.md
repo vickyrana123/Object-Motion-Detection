@@ -3,7 +3,7 @@ This project implements a simple and effective Object Motion Detection system us
 
 Whenever motion is detected, the moving region is highlighted with bounding boxes, and the status is printed on the screen.
 
-✨ Features
+✨ Features :
 
 Motion detection using background subtraction
 Automatic background model updating
@@ -12,7 +12,7 @@ Bounding boxes drawn around detected moving objects
 Frame-by-frame image capturing using Colab webcam (JavaScript + Python integration)
 Easy-to-understand and beginner-friendly code structure
 
-🛠 Technologies Used
+🛠 Technologies Used :
 
 Python
 OpenCV
@@ -20,7 +20,7 @@ NumPy
 Imutils
 JavaScript (for webcam access in Google Colab)
 
-🎯 Use Cases
+🎯 Use Cases :
 
 Basic security system prototype
 Activity monitoring
